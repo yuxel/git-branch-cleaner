@@ -1,7 +1,8 @@
 git-branch-cleaner
 ==================
 
-Simple Python script to clean local git branches by Jira status
+Simple Python script to clean local git branches by Jira status.
+If you have lots of local git branches and you remove them when they are closed on Jira, this can be handy.
 
 usage
 =====
