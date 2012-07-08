@@ -27,7 +27,7 @@ optional arguments:
 
 example output
 ==============
-$ python git-branch-cleaner.py -u osman.yuksel -pyoureadmypassword --url https://jira.rocket-internet.de/
+<pre>$ python git-branch-cleaner.py -u osman.yuksel -pyoureadmypassword --url https://jira.rocket-internet.de/
 Found branches that can be removed. Try :
-git branch -D TURPAR-15 
+git branch -D TURPAR-15 </pre>
 
